@@ -134,9 +134,9 @@ bash run.sh
 
 ## Author
 
-- **ThangLeDev**
-- Website: [me.thangle.io.vn](https://me.thangle.io.vn)
-- GitHub: [thangledev](https://github.com/thangledev)
+- **TheDuong PC **
+- Website: [ltd.ct.ws](https://ltd.ct.ws)
+- Telegram: [https://t.me/ltd2k6](https://t.me/ltd2k6)
 
 ## License
 
