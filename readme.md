@@ -24,7 +24,7 @@ Tool cào và check proxy đa luồng, hỗ trợ nhiều nguồn và giao thứ
 1. Clone repo:
    ```bash
    git clone https://github.com/tdpcstoremediatechnology8386vn-crypto/Proxyscan.git
-   cd pproxyscan
+   cd proxyscan
    ```
 2. Cài đặt dependencies:
    ```bash
@@ -124,7 +124,7 @@ cd /sdcard/download/
   3. Clone Repo
 ```bash
 git clone https://github.com/tdpcstoremediatechnology8386vn-crypto/Proxyscan.git
-cd proxyscanproxyscan
+cd proxyscan
 ```
 
   4. Chạy tool
